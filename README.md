@@ -93,7 +93,6 @@ El informe académico incluido en [`docs/InformeEEST1_LPR2026_ACT10_Ley_Veit_v1.
 
 ## Referencias
 
-- Veit, A. L. (2026). *Programador Junior* [Código de software]. GitHub: https://github.com/Xen-alt10/ley15678/tree/main
 - Python Docs — Estructuras de control (`if`, `elif`, `else`): https://docs.python.org/es/3/tutorial/controlflow.html
 
 ## Licencia
